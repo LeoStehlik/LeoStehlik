@@ -21,6 +21,3 @@ The rough workflow is simple: write a better brief, freeze the acceptance criter
 
 Most of this came from running agents on real work and getting tired of confident final messages that were only half true.
 
-## Diagram Pattern
-
-Public architecture diagrams use a dark background, usually near-black, charcoal, or deep navy, with restrained neutral strokes, small-radius boxes, and source/evidence-first labelling. No decorative gradients, no floating glass, no mascot graphics. The goal is to look like engineering evidence, not a pitch deck.

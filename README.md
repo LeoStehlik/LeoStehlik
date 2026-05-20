@@ -17,7 +17,7 @@ Around that, I keep a set of small operating tools for AI agent workflows: clear
 | [Brief Master](https://github.com/LeoStehlik/brief-master) | the task is still fuzzy and needs to become a precise agent brief |
 | [no-slop-ui](https://github.com/LeoStehlik/no-slop-ui) | frontend agents need guardrails against generic AI UI sludge |
 
-The rough workflow is simple: write a better brief, freeze the acceptance criteria, verify the work with evidence, turn repeated failures into evals, and keep the durable decisions attached to sources.
+The workflow is simple: write a better brief, freeze the acceptance criteria, verify the work with evidence, turn repeated failures into evals, and keep durable decisions attached to sources.
 
 Most of this came from running agents on real work and getting tired of confident final messages that were only half true.
 

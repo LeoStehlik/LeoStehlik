@@ -4,7 +4,7 @@ I build tools and products around the awkward parts of working with AI agents: v
 
 The flagship product direction is [WrenLore](https://github.com/wrenlore/wrenlore): a knowledge and memory layer for teams that want AI to work against source-backed company context rather than a pile of chat history and hope.
 
-Around that, I keep a set of small operating tools for making agent work less hand-wavy.
+Around that, I keep a set of small operating tools for AI agent workflows: clearer briefs, evidence-backed completion, evals for repeated failures, source-backed memory, and frontend guardrails.
 
 ## Agent Operating Tools
 

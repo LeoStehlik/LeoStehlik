@@ -23,8 +23,8 @@ Around that, I keep a set of small operating tools for AI agent workflows: clear
 | [Agent Freeboard](https://github.com/LeoStehlik/agent-freeboard) | agent work needs a local dashboard for JSON, MQTT, and live status data |
 | [human-writing](https://github.com/LeoStehlik/human-writing) | agent-written copy needs to stop sounding like generic LinkedIn sludge |
 | [visual-dna](https://github.com/LeoStehlik/visual-dna) | AI-assisted UI needs reusable design identity instead of one-off vibes |
-| [visual-architecture](https://github.com/LeoStehlik/visual-architecture) | agent systems and memory workflows need clean deterministic architecture diagrams |
+| [visual-architecture](https://github.com/LeoStehlik/visual-architecture) | architecture, workflow, source-evidence, and PR-delta artifacts need deterministic proof receipts |
 
-The workflow is simple: write a better brief, freeze the acceptance criteria, verify the work with evidence, capture deliberate corrections, turn repeated failures into evals, and keep durable decisions attached to sources.
+The workflow is simple: write a better brief, freeze the acceptance criteria, map the system when the shape matters, verify the work with evidence, capture deliberate corrections, turn repeated failures into evals, and keep durable decisions attached to sources.
 
 Most of this came from running agents on real work and getting tired of confident final messages that were only half true.
